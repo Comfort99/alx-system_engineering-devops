@@ -1,2 +1,2 @@
 # alx-system_engineering-devops
-My first alx system engineering devops  Project
+0x00. Shell basics
