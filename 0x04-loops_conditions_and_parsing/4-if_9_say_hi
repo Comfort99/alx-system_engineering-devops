@@ -2,7 +2,7 @@
 #A script that diplays Best School 10 
 #times with conditional statement
 
-i=0
+i=1
 
 while ((i <= 10))
 do
