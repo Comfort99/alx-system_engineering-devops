@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+#A script that displays Best School 10 times using Boolean
+
+a=10
+i=0
+
+while((i < a))
+do
+  echo "Best School"
+  ((i++))
+done
