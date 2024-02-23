@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+# A boolean script that displays To infinity and beyond
+
+a=0
+b=0
+
+while [ $a -eq $b ]
+do
+	echo "To infinity and beyond"
+	sleep 2
+done
