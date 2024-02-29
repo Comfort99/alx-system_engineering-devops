@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# A script that displays all the active IPv4 IPs on the mechine
+# ip command is more morden and ifconfig is deprecated on many Linux distributions
+ip -o -4 addr show | awk '{print $4}' | cut -d'/' -f1
