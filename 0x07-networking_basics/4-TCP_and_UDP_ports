@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# A script that diplays the UDP/TCP ports and the PID
+netstat -lp
